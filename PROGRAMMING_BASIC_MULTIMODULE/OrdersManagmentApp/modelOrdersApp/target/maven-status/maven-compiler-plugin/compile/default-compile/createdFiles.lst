@@ -1,0 +1,7 @@
+model\Product.class
+model\Category.class
+model\Customer$CustomerBuilder.class
+model\Product$ProductBuilder.class
+model\Order$OrderBuilder.class
+model\Customer.class
+model\Order.class

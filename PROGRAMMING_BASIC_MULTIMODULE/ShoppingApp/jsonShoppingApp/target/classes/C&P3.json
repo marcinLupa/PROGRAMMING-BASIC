@@ -1,0 +1,79 @@
+{
+  "customersAndProducts": [
+    {
+      "customer": {
+        "name": "Alina",
+        "surname": "Smiglo",
+        "age": 67,
+        "budget": 620
+      },
+      "products": [
+        {
+          "name": "Pieluchy",
+          "category": "HIGIENICZNE",
+          "price": 69.0
+        },
+        {
+          "name": "Chusteczki",
+          "category": "HIGIENICZNE",
+          "price": 11.99
+        },
+        {
+          "name": "Proszek do prania",
+          "category": "HIGIENICZNE",
+          "price": 16.99
+        }
+      ]
+    },
+    {
+      "customer": {
+        "name": "Ola",
+        "surname": "Wnuk",
+        "age": 41,
+        "budget": 2100
+      },
+      "products": [
+        {
+          "name": "Szafka",
+          "category": "INNE",
+          "price": 350
+        },
+        {
+          "name": "Samsung C1",
+          "category": "INNE",
+          "price": 990
+        },
+        {
+          "name": "Sluchawki",
+          "category": "INNE",
+          "price": 230.0
+        }
+      ]
+    },
+    {
+      "customer": {
+        "name": "Ola",
+        "surname": "Wnuk",
+        "age": 41,
+        "budget": 2100
+      },
+      "products": [
+        {
+          "name": "Chleb",
+          "category": "SPOZYWCZE",
+          "price": 3.50
+        },
+        {
+          "name": "Herbata",
+          "category": "SPOZYWCZE",
+          "price": 12.00
+        },
+        {
+          "name": "Harnas",
+          "category": "UZYWKI",
+          "price": 2.00
+        }
+      ]
+    }
+  ]
+}

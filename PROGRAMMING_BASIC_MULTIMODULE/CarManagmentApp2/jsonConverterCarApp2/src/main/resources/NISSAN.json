@@ -1,0 +1,24 @@
+{
+  "model": "NISSAN",
+  "price": 47000,
+  "mileage": 15000,
+  "engine": {
+    "type": "DIESEL",
+    "power": 72.0
+  },
+  "carBody": {
+    "color": "BIALY",
+    "type": "SEDAN",
+    "components": [
+      "ABS",
+      "ALARM",
+      "SWIATLA_PRZECIWMGIELNE",
+      "KLIMATYZACJA"
+    ]
+  },
+  "wheels": {
+    "model": "DEBICA",
+    "size": 17,
+    "type": "LETNIE"
+  }
+}

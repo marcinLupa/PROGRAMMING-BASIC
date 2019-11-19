@@ -1,0 +1,22 @@
+{
+  "model": "CITROEN",
+  "price": 21000,
+  "mileage": 21500,
+  "engine": {
+    "type": "DIESEL",
+    "power": 66.0
+  },
+  "carBody": {
+    "color": "ZIELONY",
+    "type": "HATCHBACK",
+    "components": [
+      "ABS",
+      "ALARM"
+    ]
+  },
+  "wheels": {
+    "model": "DEBICA",
+    "size": 16,
+    "type": "LETNIE"
+  }
+}

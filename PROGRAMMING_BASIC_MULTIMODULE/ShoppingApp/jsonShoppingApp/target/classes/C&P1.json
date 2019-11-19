@@ -1,0 +1,54 @@
+{
+  "customersAndProducts": [
+    {
+      "customer": {
+        "name": "Adam",
+        "surname": "Rak",
+        "age": 12,
+        "budget": 200
+      },
+      "products": [
+        {
+          "name": "Gumy do żucia",
+          "category": "SPOZYWCZE",
+          "price": 5.99
+        },
+        {
+          "name": "Snikers",
+          "category": "SPOZYWCZE",
+          "price": 3.49
+        },
+        {
+          "name": "Bilet",
+          "category": "INNE",
+          "price": 1.60
+        }
+      ]
+    },
+    {
+      "customer": {
+        "name": "Roman",
+        "surname": "Jagielski",
+        "age": 56,
+        "budget": 1220
+      },
+      "products": [
+        {
+          "name": "Wino",
+          "category": "UZYWKI",
+          "price": 8.99
+        },
+        {
+          "name": "Mocne",
+          "category": "UZYWKI",
+          "price": 11.99
+        },
+        {
+          "name": "Piast",
+          "category": "UZYWKI",
+          "price": 2.30
+        }
+      ]
+    }
+  ]
+}

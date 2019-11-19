@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankOperations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankOperations/exceptions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankOperations/json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankOperations/main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankOperations/model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BankOperations/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp/exceptionsCarApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp/jsonCarApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp/mainCarApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp/modelCarApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp/repositoryCarApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp/serviceCarApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp2/exceptionsCarApp2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp2/jsonConverterCarApp2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp2/mainCarApp2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp2/modelCarApp2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CarManagmentApp2/serviceCarApp2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShoppingApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShoppingApp/exceptionsShoppingApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShoppingApp/jsonShoppingApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShoppingApp/mainShoppingApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShoppingApp/modelShoppingApp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ShoppingApp/serviceShoppingApp" charset="UTF-8" />
+  </component>
+</project>

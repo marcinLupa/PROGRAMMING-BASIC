@@ -1,0 +1,29 @@
+{
+  "model": "MERCEDES",
+  "price": 225000,
+  "mileage": 18000,
+  "engine": {
+    "type": "DIESEL",
+    "power": 152.0
+  },
+  "carBody": {
+    "color": "CZERWONY",
+    "type": "KOMBI",
+    "components": [
+      "ABS",
+      "ALARM",
+      "ESP",
+      "SWIATLA_PRZECIWMGIELNE",
+      "PAKIET ZiMOWY",
+      "DRZWI_TYLNE",
+      "ALARM",
+      "SWIATLA_PRZECIWMGIELNE",
+      "KLIMATYZACJA"
+    ]
+  },
+  "wheels": {
+    "model": "KORMORAN",
+    "size": 22,
+    "type": "ZIMOWE"
+  }
+}

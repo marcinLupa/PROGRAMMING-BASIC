@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="serviceCarApp2" />
+        <module name="exceptionsCarApp" />
+        <module name="serviceCarApp" />
+        <module name="jsonShoppingApp" />
+        <module name="mainSortCompApp" />
+        <module name="modelCarApp" />
+        <module name="model" />
+        <module name="exceptionsCarApp2" />
+        <module name="jsonCarApp" />
+        <module name="modelOrdersApp" />
+        <module name="repositoryCarApp" />
+        <module name="exceptions" />
+        <module name="mainOrdersApp" />
+        <module name="serviceOrdersApp" />
+        <module name="jsonConverterCarApp2" />
+        <module name="mainCarApp2" />
+        <module name="mainShoppingApp" />
+        <module name="mainCarApp" />
+        <module name="modelCarApp2" />
+        <module name="modelShoppingApp" />
+        <module name="exceptionsOrdersApp" />
+        <module name="jsonOrdersApp" />
+        <module name="exceptionsShoppingApp" />
+        <module name="serviceShoppingApp" />
+        <module name="exceptionsSortCompApp" />
+        <module name="json" />
+        <module name="service" />
+        <module name="main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CarManagmentApp2" target="12" />
+      <module name="CinemaRepertoire" target="12" />
+      <module name="jsonCarApp2" target="12" />
+      <module name="main" target="12" />
+      <module name="Main" target="12" />
+      <module name="modelCinemaRepertoire" target="12" />
+      <module name="modelSortCompApp" target="12" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

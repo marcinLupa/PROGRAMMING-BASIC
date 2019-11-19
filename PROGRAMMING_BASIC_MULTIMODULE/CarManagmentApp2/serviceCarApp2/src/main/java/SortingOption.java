@@ -1,0 +1,2 @@
+public enum SortingOption { POWER_ENGINE,TIRE_SIZE, COMPONENTS, DESC, ASC,PRICE,MILEAGE
+}

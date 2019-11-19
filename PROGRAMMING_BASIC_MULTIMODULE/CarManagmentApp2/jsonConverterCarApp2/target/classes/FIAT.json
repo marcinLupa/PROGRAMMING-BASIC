@@ -1,0 +1,22 @@
+{
+  "model": "FIAT",
+  "price": 18000,
+  "mileage": 140000,
+  "engine": {
+    "type": "DIESEL",
+    "power":70.0
+  },
+  "carBody": {
+    "color": "NIEBIESKI",
+    "type": "SEDAN",
+    "components": [
+      "ABS",
+      "KLIMATYZACJA"
+    ]
+  },
+  "wheels": {
+    "model": "KORMORAN",
+    "size": 18,
+    "type": "LETNIE"
+  }
+}

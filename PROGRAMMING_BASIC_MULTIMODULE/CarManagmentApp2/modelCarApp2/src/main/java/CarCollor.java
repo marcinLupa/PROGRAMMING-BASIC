@@ -1,0 +1,3 @@
+public enum CarCollor {
+    BIALY, CZARNY, CZERWONY, SREBRNY, NIEBIESKI, ZIELONY
+}

@@ -1,0 +1,27 @@
+{
+  "model": "HONDA",
+  "price": 35000,
+  "mileage": 52000,
+  "engine": {
+    "type": "GASOLINE",
+    "power": 100.0
+  },
+  "carBody": {
+    "color": "SREBRNY",
+    "type": "HATCHBACK",
+    "components": [
+      "ABS",
+      "ALARM",
+      "ESP",
+      "PAKIET ZiMOWY",
+      "DRZWI_TYLNE",
+      "ALARM",
+      "KLIMATYZACJA"
+    ]
+  },
+  "wheels": {
+    "model": "KORMORAN",
+    "size": 20,
+    "type": "LETNIE"
+  }
+}

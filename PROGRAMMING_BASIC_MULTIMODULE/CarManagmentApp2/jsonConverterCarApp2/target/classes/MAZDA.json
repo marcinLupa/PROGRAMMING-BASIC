@@ -1,0 +1,27 @@
+{
+  "model": "MAZDA",
+  "price": 72000,
+  "mileage": 18000,
+  "engine": {
+    "type": "LPG",
+    "power": 112.0
+  },
+  "carBody": {
+    "color": "BIALY",
+    "type": "SEDAN",
+    "components": [
+      "ABS",
+      "ALARM",
+      "ESP",
+      "SWIATLA_PRZECIWMGIELNE",
+      "ALARM",
+      "SWIATLA_PRZECIWMGIELNE",
+      "KLIMATYZACJA"
+    ]
+  },
+  "wheels": {
+    "model": "MICHELIN",
+    "size": 21,
+    "type": "LETNIE"
+  }
+}

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93cb14e5-fff1-4e11-a63a-89195fde890e" name="Default Changelist" comment="Programming Basic which MultiModules" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="272" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QUxcvtzhUHx01dsrUEAL0r68qS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/CarManagmentApp2/jsonCarApp2/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/OrdersManagmentApp/jsonOrdersApp/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34772462" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="json" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\PROGRAMMING_BASIC_MULTIMODULE\OrdersManagmentApp\jsonOrdersApp\src\main\resources" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\PROGRAMMING_BASIC_MULTIMODULE\ShoppingApp\serviceShoppingApp\src\main\java\services" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\PROGRAMMING_BASIC_MULTIMODULE\OrdersManagmentApp\serviceOrdersApp\src\main\java" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\PROGRAMMING_BASIC_MULTIMODULE\OrdersManagmentApp\serviceOrdersApp\src\main" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\PROGRAMMING_BASIC_MULTIMODULE\OrdersManagmentApp\modelOrdersApp\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\PROGRAMMING_BASIC_MULTIMODULE\OrdersManagmentApp\jsonOrdersApp\src\main" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\PROGRAMMING_BASIC_MULTIMODULE\OrdersManagmentApp\jsonOrdersApp\src" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\PROGRAMMING_BASIC_MULTIMODULE\CarManagmentApp2\jsonConverterCarApp2\src\main\resources" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\PROGRAMMING_BASIC_MULTIMODULE\CarManagmentApp2\jsonCarApp2\src\main\resources" />
+      <recent name="C:\Users\48783\IdeaProjects\DUZE PROGRAMY\PROGRAMMING_BASIC_MULTIMODULE\CarManagmentApp2\jsonCarApp2\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.App" />
+      <module name="mainOrdersApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="mainCarApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="mainShoppingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainCars" />
+      <module name="mainCarApp2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarServiceTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serviceCarApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CarServiceTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainCars" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JUnit.CarServiceTest.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.CarServiceTest.test1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.MainCars" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93cb14e5-fff1-4e11-a63a-89195fde890e" name="Default Changelist" comment="" />
+      <created>1557779418160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557779418160</updated>
+      <workItem from="1557779426887" duration="2058000" />
+      <workItem from="1557821886386" duration="11066000" />
+      <workItem from="1557833155953" duration="176000" />
+      <workItem from="1557834278107" duration="1546000" />
+      <workItem from="1557898917215" duration="598000" />
+      <workItem from="1557982999574" duration="16052000" />
+      <workItem from="1558068157421" duration="21568000" />
+      <workItem from="1558338688792" duration="1369000" />
+      <workItem from="1561101971914" duration="1603000" />
+      <workItem from="1561376448315" duration="598000" />
+      <workItem from="1562007562759" duration="1260000" />
+      <workItem from="1567839060568" duration="892000" />
+      <workItem from="1567842053360" duration="1464000" />
+      <workItem from="1567931832316" duration="5817000" />
+      <workItem from="1568125734603" duration="15621000" />
+      <workItem from="1568216059773" duration="14112000" />
+      <workItem from="1568786387729" duration="598000" />
+      <workItem from="1568793676024" duration="655000" />
+      <workItem from="1568834747363" duration="2719000" />
+      <workItem from="1568876078397" duration="397000" />
+      <workItem from="1568876580626" duration="2130000" />
+      <workItem from="1569055773136" duration="2957000" />
+      <workItem from="1569435428447" duration="2297000" />
+      <workItem from="1569956218542" duration="599000" />
+      <workItem from="1569995144438" duration="590000" />
+      <workItem from="1571249557534" duration="634000" />
+      <workItem from="1571892631782" duration="617000" />
+    </task>
+    <task id="LOCAL-00001" summary="Programming Basic which MultiModules">
+      <created>1558098296825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558098296826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Programming Basic which MultiModules">
+      <created>1558341835381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558341835381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programming Basic which MultiModules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programming Basic which MultiModules" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ShoppingApp/serviceShoppingApp/src/main/java/services/MenuService.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ShoppingApp/serviceShoppingApp/src/main/java/services/DataService.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PROGRAMMING_BASIC_MULTIMODULE$MainCars.ic" NAME="MainCars Coverage Results" MODIFIED="1558081415785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

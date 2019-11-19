@@ -1,0 +1,4 @@
+model\Car.class
+model\Colour.class
+model\Car$CarBuilder.class
+model\SortType.class

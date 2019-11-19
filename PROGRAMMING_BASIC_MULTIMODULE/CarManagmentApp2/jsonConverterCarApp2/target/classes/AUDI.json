@@ -1,0 +1,25 @@
+{
+  "model": "AUDI",
+  "price": 72000,
+  "mileage": 65000,
+  "engine": {
+    "type": "GASOLINE",
+    "power": 124.0
+  },
+  "carBody": {
+    "color": "CZARNY",
+    "type": "KOMBI",
+    "components": [
+      "ABS",
+      "ALARM",
+      "ESP",
+      "SWIATLA_PRZECIWMGIELNE",
+      "PAKIET ZiMOWY"
+    ]
+  },
+  "wheels": {
+    "model": "DEBICA",
+    "size": 22,
+    "type": "ZIMOWE"
+  }
+}

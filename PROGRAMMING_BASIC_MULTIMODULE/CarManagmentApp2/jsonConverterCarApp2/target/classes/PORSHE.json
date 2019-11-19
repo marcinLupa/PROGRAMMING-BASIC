@@ -1,0 +1,32 @@
+{
+  "model": "PORSHE",
+  "price": 285000,
+  "mileage": 22000,
+  "engine": {
+    "type": "GASOLINE",
+    "power": 224.0
+  },
+  "carBody": {
+    "color": "CZERWONY",
+    "type": "SEDAN",
+    "components": [
+      "ABS",
+      "ALARM",
+      "ESP",
+      "SWIATLA_PRZECIWMGIELNE",
+      "PAKIET ZiMOWY",
+      "DRZWI_TYLNE",
+      "ALARM",
+      "SWIATLA_PRZECIWMGIELNE",
+      "KLIMATYZACJA",
+      "MUSIC BOSE",
+      "TV LED",
+      "KAMERA 360"
+    ]
+  },
+  "wheels": {
+    "model": "MICHELIN",
+    "size": 24,
+    "type": "LETNIE"
+  }
+}
